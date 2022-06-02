@@ -4,7 +4,7 @@ $fs = 0.4;
 
 // Dimensions
 standoffRadius = 2.5;
-standoffHeight = 10;
+standoffHeight = 8;
 screwSize = 2.5;
 
 // Module
